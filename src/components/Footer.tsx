@@ -6,9 +6,12 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
         <div>
           <a href="/" className="flex items-center gap-2 mb-6">
-            <div className="w-8 h-8 bg-accent rounded flex items-center justify-center">
-              <span className="text-white font-bold text-lg">G</span>
-            </div>
+            <img 
+              src="/src/assets/images/grah_solutions_logo_1782715917242.jpg" 
+              alt="Grah Solutions Logo" 
+              referrerPolicy="no-referrer" 
+              className="w-8 h-8 rounded object-cover shadow" 
+            />
             <span className="text-xl font-bold">Grah Solutions</span>
           </a>
           <p className="text-gray-400 mb-6">

@@ -31,9 +31,12 @@ export default function Header() {
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         <a href="/" className="flex items-center gap-3">
-          <div className="w-12 h-12 bg-primary rounded-2xl flex items-center justify-center shadow-lg shadow-primary/20 rotate-3">
-            <span className="text-white font-black text-2xl -rotate-3">G</span>
-          </div>
+          <img 
+            src="/src/assets/images/grah_solutions_logo_1782715917242.jpg" 
+            alt="Grah Solutions Logo" 
+            referrerPolicy="no-referrer" 
+            className="w-12 h-12 rounded-2xl object-cover shadow-lg shadow-primary/20 border border-gray-100" 
+          />
           <div className="flex flex-col">
             <span className="text-2xl font-black tracking-tighter text-text-main leading-none">
               Grah Solutions
