@@ -42,7 +42,7 @@ export const SERVICES: Service[] = [
       'Double Coat Premium Emulsion Paint',
       'Final Joint Inspection & Cleanup'
     ],
-    image: '/src/assets/images/home_painting_india_1782118577625.jpg',
+    image: '/images/home_painting_india_1782118577625.jpg',
     startingPrice: PRICING_CONFIG.PAINTING_PRICE
   },
   {
@@ -66,7 +66,7 @@ export const SERVICES: Service[] = [
       'Dr. Fixit Fiber Mesh Reinforcement',
       'Water Ponding Integrity Test'
     ],
-    image: '/src/assets/images/indian_waterproofing_expert_1782125292107.jpg',
+    image: '/images/indian_waterproofing_expert_1782125292107.jpg',
     startingPrice: PRICING_CONFIG.WATERPROOFING_PRICE
   },
   {
@@ -90,7 +90,7 @@ export const SERVICES: Service[] = [
       'Sealing of Pest Access & Entry Points',
       'Periodic Monitoring and Follow-Up Sheet'
     ],
-    image: '/src/assets/images/indian_pest_expert_1782125215240.jpg',
+    image: '/images/indian_pest_expert_1782125215240.jpg',
     startingPrice: PRICING_CONFIG.PEST_CONTROL_PRICE
   },
   {
@@ -114,7 +114,7 @@ export const SERVICES: Service[] = [
       'Flawless Fitting and Alignment Check',
       'Final Decorative Styling and Handover'
     ],
-    image: '/src/assets/images/home_decoration_expert_1782125118424.jpg',
+    image: '/images/home_decoration_expert_1782125118424.jpg',
     startingPrice: PRICING_CONFIG.DECORATION_PRICE
   }
 ];
@@ -202,8 +202,8 @@ export const WORK_GALLERY: GalleryItem[] = [
     title: 'Luxury Living Room Painting',
     location: 'Kamla Nagar, Agra',
     serviceUsed: 'Royal Emulsion / Texture Accent Wall',
-    beforeImg: '/src/assets/images/indian_house_living_before_1782126338272.jpg',
-    afterImg: '/src/assets/images/indian_house_living_after_1782126358132.jpg',
+    beforeImg: '/images/indian_house_living_before_1782126338272.jpg',
+    afterImg: '/images/indian_house_living_after_1782126358132.jpg',
     badgeText: 'Premium Finish',
     altText: 'Interior painting service before and after transformation in Agra home'
   },
@@ -213,8 +213,8 @@ export const WORK_GALLERY: GalleryItem[] = [
     title: 'Terrace Waterproofing Treatment',
     location: 'Sikandra, Agra',
     serviceUsed: '7-Layer Protection + Dr. Fixit Certified',
-    beforeImg: '/src/assets/images/indian_terrace_water_before_1782126464758.jpg',
-    afterImg: '/src/assets/images/indian_terrace_water_after_1782126481368.jpg',
+    beforeImg: '/images/indian_terrace_water_before_1782126464758.jpg',
+    afterImg: '/images/indian_terrace_water_after_1782126481368.jpg',
     badgeText: '100% Leak Proof',
     altText: 'Professional roof waterproofing before and after in Agra property'
   },
@@ -224,8 +224,8 @@ export const WORK_GALLERY: GalleryItem[] = [
     title: 'Scenic Wallpaper Installation',
     location: 'Dayalbagh, Agra',
     serviceUsed: 'Elegant Floral Textured Wallpaper',
-    beforeImg: '/src/assets/images/indian_wallpaper_before_1782126603627.jpg',
-    afterImg: '/src/assets/images/indian_wallpaper_after_1782126624082.jpg',
+    beforeImg: '/images/indian_wallpaper_before_1782126603627.jpg',
+    afterImg: '/images/indian_wallpaper_after_1782126624082.jpg',
     badgeText: 'Flawless Styling',
     altText: 'Premium custom wallpaper work before and after in Agra residence'
   }

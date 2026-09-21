@@ -32,7 +32,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         <a href="/" className="flex items-center gap-3">
           <img 
-            src="/src/assets/images/grah_solutions_logo_1782715917242.jpg" 
+            src="/images/grah_solutions_logo_1782715917242.jpg" 
             alt="Grah Solutions Logo" 
             referrerPolicy="no-referrer" 
             className="w-12 h-12 rounded-2xl object-cover shadow-lg shadow-primary/20 border border-gray-100" 

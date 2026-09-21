@@ -552,7 +552,7 @@ export default function Home() {
               
               <div className="overflow-hidden rounded-[2.5rem] shadow-2xl border-4 border-white aspect-square w-full">
                 <img 
-                  src="/src/assets/images/natural_indian_people_1782127613078.jpg" 
+                  src="/images/natural_indian_people_1782127613078.jpg" 
                   alt="Proud & Happy Indian Homeowners" 
                   className="object-cover w-full h-full scale-[1.02] hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"

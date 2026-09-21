@@ -1,4 +1,4 @@
-import { Facebook, Twitter, Instagram, Mail, Phone, MapPin, ExternalLink } from 'lucide-react';
+import { Facebook, Instagram, Mail, Phone, MapPin, ExternalLink } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -7,7 +7,7 @@ export default function Footer() {
         <div>
           <a href="/" className="flex items-center gap-2 mb-6">
             <img 
-              src="/src/assets/images/grah_solutions_logo_1782715917242.jpg" 
+              src="/images/grah_solutions_logo_1782715917242.jpg" 
               alt="Grah Solutions Logo" 
               referrerPolicy="no-referrer" 
               className="w-8 h-8 rounded object-cover shadow" 
@@ -18,13 +18,10 @@ export default function Footer() {
             Your trusted partner for professional home painting, waterproofing, and pest control services. We bring quality and reliability to your doorstep.
           </p>
           <div className="flex gap-4">
-            <a href="#" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-accent transition-colors">
+            <a href="https://www.facebook.com/people/Greh-Solutions/61591381805660/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-accent transition-colors">
               <Facebook size={20} />
             </a>
-            <a href="#" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-accent transition-colors">
-              <Twitter size={20} />
-            </a>
-            <a href="#" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-accent transition-colors">
+            <a href="https://www.instagram.com/grehsolutions/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-accent transition-colors">
               <Instagram size={20} />
             </a>
           </div>
