@@ -26,21 +26,21 @@ export const SERVICES: Service[] = [
     title: 'Home Painting',
     slug: 'home-painting',
     shortDescription: 'Premium interior & exterior painting for your Agra home.',
-    description: 'Our professional painting services are designed to give your Agra home a fresh, vibrant, and stunning look. We use high-quality, eco-friendly paints and expert dust-free techniques to ensure a flawless finish that lasts for years.',
+    description: 'Fresh, flawless walls with premium eco-friendly paints and dust-free technique — built to last.',
     icon: 'PaintBucket',
     benefits: [
-      'Premium quality paints (Asian Paints, Berger, etc.)',
-      'Expert color planning and consulting',
-      'Dust-free execution with advanced tools',
-      'On-time completion guaranteed',
-      'Up to 5 years warranty on workmanship'
+      'Premium branded paints',
+      'Expert colour consulting',
+      'Dust-free execution',
+      'On-time completion',
+      '5-year warranty'
     ],
     process: [
-      'Surface Preparation & Crack Filling',
-      'Primer Coating Application',
-      'Wall Putty & Precision Smoothing',
-      'Double Coat Premium Emulsion Paint',
-      'Final Joint Inspection & Cleanup'
+      'Surface prep & crack fill',
+      'Primer coating',
+      'Putty & smoothing',
+      'Double-coat emulsion',
+      'Inspection & cleanup'
     ],
     image: '/images/home_painting_india_1782118577625.jpg',
     startingPrice: PRICING_CONFIG.PAINTING_PRICE
@@ -50,21 +50,21 @@ export const SERVICES: Service[] = [
     title: 'Waterproofing',
     slug: 'waterproofing',
     shortDescription: 'Shield your ceilings, walls & roofs from Agra dampness.',
-    description: 'Don\'t let severe water leakage ruin your valuable property. Our advanced chemical waterproofing treatments provide a robust 7-layer shield against Agra moisture, preventing cracks, mold, dampness, and structural decay inside your rooms, terraces, and external walls.',
+    description: 'Advanced 7-layer chemical treatment that shields walls, roofs & terraces from Agra dampness.',
     icon: 'Droplets',
     benefits: [
-      '7-Layer advanced chemical protection',
-      'Trained Dr. Fixit certified applicators',
-      'Stops dampness & structural damp lines',
-      'Odorless & environment safe',
-      'Longest warranty up to 10 years'
+      '7-layer protection',
+      'Dr. Fixit certified team',
+      'Stops dampness & seepage',
+      'Odourless & eco-safe',
+      'Up to 10-year warranty'
     ],
     process: [
-      'Source Spotting & Leak Identification',
-      'Surface Cleaning & Crack Sealing',
-      'Base Waterproof Seal Coating',
-      'Dr. Fixit Fiber Mesh Reinforcement',
-      'Water Ponding Integrity Test'
+      'Leak identification',
+      'Cleaning & crack sealing',
+      'Base seal coating',
+      'Fibre mesh reinforcement',
+      'Water ponding test'
     ],
     image: '/images/indian_waterproofing_expert_1782125292107.jpg',
     startingPrice: PRICING_CONFIG.WATERPROOFING_PRICE
@@ -74,21 +74,21 @@ export const SERVICES: Service[] = [
     title: 'Pest Control',
     slug: 'pest-control',
     shortDescription: 'Safe, odorless pest control for Agra homes & workspaces.',
-    description: 'Banish termites, bedbugs, cockroaches, and rodents safely. We use licensed, organic/herbal, and government-approved odorless chemicals to keep your Agra home or commercial space safe for children, pets, and senior citizens.',
+    description: 'Safe, odourless, government-approved control for termites, cockroaches, bedbugs & rodents.',
     icon: 'Bug',
     benefits: [
-      'Certified and well-trained technicians',
-      'Kids, elderly, and pet-friendly solutions',
-      '100% odorless & hassle-free treatment',
-      'Termite drill-fill-seal protection',
-      'Free check-up after 15 days'
+      'Certified technicians',
+      'Kid & pet friendly',
+      '100% odourless',
+      'Termite drill-fill-seal',
+      'Free 15-day recheck'
     ],
     process: [
-      'Intensified Area Pest Infestation Audit',
-      'Targeted Herbal Injection / Spray Spraying',
-      'Strategic Gel Baiting in Kitchen & Pantries',
-      'Sealing of Pest Access & Entry Points',
-      'Periodic Monitoring and Follow-Up Sheet'
+      'Infestation audit',
+      'Herbal spray treatment',
+      'Kitchen gel baiting',
+      'Sealing entry points',
+      'Monitoring & follow-up'
     ],
     image: '/images/indian_pest_expert_1782125215240.jpg',
     startingPrice: PRICING_CONFIG.PEST_CONTROL_PRICE
@@ -98,21 +98,21 @@ export const SERVICES: Service[] = [
     title: 'Home Decoration',
     slug: 'home-decoration',
     shortDescription: 'Premium wallpaper, textures & paneling for your Agra home.',
-    description: 'Your home deserves a personalized touch. Our home decoration experts specialize in premium wallpaper installation, customized texture painting, design wall panels, and interior styling services to create the perfect dream ambiance in Agra.',
+    description: 'Premium wallpaper, texture painting & wall paneling to style your dream Agra home.',
     icon: 'Sparkles',
     benefits: [
-      'Stunning designer wallpaper collections',
-      'Unique customized textured feature walls',
-      'Expert interior styling consultation',
-      'Flawless bubble-free wallpaper installation',
-      '100% clean, dust-free & fast service execution'
+      'Designer wallpapers',
+      'Custom texture walls',
+      'Interior styling advice',
+      'Bubble-free installation',
+      'Clean & fast service'
     ],
     process: [
-      'Design Consultation & Sample Choosing',
-      'Surface Flaw Correction & Smoothing',
-      'Precise Wall Measurement & Adhesive Prep',
-      'Flawless Fitting and Alignment Check',
-      'Final Decorative Styling and Handover'
+      'Design consultation',
+      'Surface smoothing',
+      'Measure & prep',
+      'Fitting & alignment',
+      'Styling & handover'
     ],
     image: '/images/home_decoration_expert_1782125118424.jpg',
     startingPrice: PRICING_CONFIG.DECORATION_PRICE
