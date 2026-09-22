@@ -592,7 +592,7 @@ export default function Home() {
                 </div>
                 <h2 className="text-3xl md:text-4xl lg:text-[40px] font-black tracking-tight text-slate-950 leading-tight">
                   Why {CUSTOMER_COUNT} Homeowners <br />
-                  <span className="text-primary font-black">Trust Grah Solutions</span>
+                  <span className="text-primary font-black">Trust Greh Solutions</span>
                 </h2>
                 <p className="text-slate-500 text-sm md:text-base font-medium leading-relaxed max-w-xl mt-4">
                    Agra's premier home care & waterproofing specialists. Built on trust, high materials standards, and local police-verified expert technicians.
@@ -766,7 +766,7 @@ export default function Home() {
             <div>
               <div className="badge-trust mb-3">Customer Love</div>
               <h2 className="heading-md mb-4 font-black">Trusted by <span className="text-accent">Families in Agra</span></h2>
-              <p className="text-gray-600 text-lg">Real stories and reviews from local Agra homeowners who hired Grah Solutions.</p>
+              <p className="text-gray-600 text-lg">Real stories and reviews from local Agra homeowners who hired Greh Solutions.</p>
             </div>
             <div className="bg-secondary/50 p-6 rounded-3xl border border-secondary flex items-center gap-6">
               <div className="text-center">

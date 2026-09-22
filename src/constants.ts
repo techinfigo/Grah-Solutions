@@ -126,7 +126,7 @@ export const TESTIMONIALS: Testimonial[] = [
     id: '1',
     name: 'Rahul Sharma',
     role: 'Homeowner, Dayalbagh, Agra',
-    content: 'Grah Solutions did an outstanding job painting our house on a tight deadline. No mess left behind, highly professional team!',
+    content: 'Greh Solutions did an outstanding job painting our house on a tight deadline. No mess left behind, highly professional team!',
     rating: 5,
     avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=150&h=150',
     projectImage: 'https://images.unsplash.com/photo-1562663474-6cbb3fee4c77?auto=format&fit=crop&q=80&w=650',

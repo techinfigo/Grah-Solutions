@@ -59,7 +59,7 @@ export default function Contact() {
 
           {/* Email Support */}
           <a 
-            href="mailto:care@grahsolutions.com?subject=Inquiry%20from%20Website"
+            href="mailto:care@grehsolutions.com?subject=Inquiry%20from%20Website"
             className="bg-white p-6 md:p-8 rounded-3xl shadow-xl border border-gray-100 flex items-start gap-5 hover:border-accent/20 hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 group block"
           >
             <div className="w-12 h-12 bg-orange-50 text-accent rounded-2xl flex items-center justify-center shrink-0 group-hover:bg-accent group-hover:text-white transition-all duration-300">
@@ -67,7 +67,7 @@ export default function Contact() {
             </div>
             <div className="flex-1 min-w-0">
               <h3 className="font-extrabold text-lg text-gray-950 mb-1">Email Support</h3>
-              <p className="text-gray-700 font-bold text-base mb-1 truncate">care@grahsolutions.com</p>
+              <p className="text-gray-700 font-bold text-base mb-1 truncate">care@grehsolutions.com</p>
               <p className="text-xs text-gray-500">Response within 4 hours</p>
               <p className="text-[10px] text-accent font-black mt-2.5 uppercase tracking-wider">Write Email Now</p>
             </div>
@@ -85,7 +85,7 @@ export default function Contact() {
               <div className="relative z-10 space-y-8">
                 <div>
                   <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-accent text-white font-black text-[10px] tracking-widest uppercase mb-4 shadow-md shadow-accent/20">
-                    <Sparkles size={10} /> The Grah Promise
+                    <Sparkles size={10} /> The Greh Promise
                   </div>
                   <h3 className="text-2xl md:text-3xl font-extrabold text-white tracking-tight leading-tight">
                     Hassle-Free <br />Home Assessments
@@ -142,7 +142,7 @@ export default function Contact() {
             allowFullScreen={true}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Grah Solutions Office, Dayalbagh, Agra"
+            title="Greh Solutions Office, Dayalbagh, Agra"
             className="absolute inset-0 w-full h-full"
           ></iframe>
           {/* Overlay Head Office Info Card */}

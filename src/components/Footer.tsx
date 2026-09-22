@@ -8,11 +8,11 @@ export default function Footer() {
           <a href="/" className="flex items-center gap-2 mb-6">
             <img 
               src="/images/grah_solutions_logo_1782715917242.jpg" 
-              alt="Grah Solutions Logo" 
-              referrerPolicy="no-referrer" 
-              className="w-8 h-8 rounded object-cover shadow" 
+              alt="Greh Solutions Logo"
+              referrerPolicy="no-referrer"
+              className="w-8 h-8 rounded object-cover shadow"
             />
-            <span className="text-xl font-bold">Grah Solutions</span>
+            <span className="text-xl font-bold">Greh Solutions</span>
           </a>
           <p className="text-gray-400 mb-6">
             Your trusted partner for professional home painting, waterproofing, and pest control services. We bring quality and reliability to your doorstep.
@@ -60,14 +60,14 @@ export default function Footer() {
             </li>
             <li className="flex gap-3">
               <Mail className="text-accent shrink-0" size={20} />
-              <span>info@grahsolutions.com</span>
+              <span>info@grehsolutions.com</span>
             </li>
           </ul>
         </div>
       </div>
       
       <div className="max-w-7xl mx-auto px-6 md:px-12 pt-8 border-t border-gray-800 flex flex-col sm:flex-row justify-between items-center gap-6 text-center sm:text-left text-gray-500 text-sm">
-        <p className="order-2 sm:order-1">&copy; {new Date().getFullYear()} Grah Solutions. All rights reserved.</p>
+        <p className="order-2 sm:order-1">&copy; {new Date().getFullYear()} Greh Solutions. All rights reserved.</p>
         
         {/* Eye-catching Premium Developer Badge */}
         <div className="order-1 sm:order-2 flex items-center gap-2.5 bg-gray-950/80 backdrop-blur-sm px-4.5 py-2 rounded-2xl border border-gray-800/80 hover:border-accent/40 shadow-xl hover:shadow-[0_0_20px_rgba(255,102,0,0.15)] transition-all duration-300 group">

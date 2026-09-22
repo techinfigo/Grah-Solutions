@@ -81,7 +81,7 @@ export default function PriceEstimator() {
     }).format(num);
   };
 
-  const customMessage = `Hi Grah Solutions, I calculated a customized budgetary estimate of ${formatValue(totalMin)} - ${formatValue(totalMax)} online. Area: ${areaSize} sq.ft, Service: ${selectedService.name}, Condition: ${selectedCondition.name}, Grade: ${selectedTier.name}. Please help schedule a free expert visit with precise measuring tools.`;
+  const customMessage = `Hi Greh Solutions, I calculated a customized budgetary estimate of ${formatValue(totalMin)} - ${formatValue(totalMax)} online. Area: ${areaSize} sq.ft, Service: ${selectedService.name}, Condition: ${selectedCondition.name}, Grade: ${selectedTier.name}. Please help schedule a free expert visit with precise measuring tools.`;
   const customWhatsappUrl = `https://wa.me/919068057387?text=${encodeURIComponent(customMessage)}`;
 
   return (

@@ -15,7 +15,7 @@ export default function About() {
             <div className="badge-trust mb-6">Our Story</div>
             <h1 className="heading-md mb-6">Building <span className="text-primary">Trust</span>, One Home at a Time.</h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed font-medium">
-              Founded with a mission to organize the unorganized home services sector in India, <span className="text-primary font-black">Grah Solutions</span> has grown into a trusted name for {CUSTOMER_COUNT} homeowners.
+              Founded with a mission to organize the unorganized home services sector in India, <span className="text-primary font-black">Greh Solutions</span> has grown into a trusted name for {CUSTOMER_COUNT} homeowners.
             </p>
             <p className="text-lg text-gray-600 mb-10 font-medium leading-relaxed">
               We understood the pain of dealing with unreliable contractors, hidden costs, and poor quality work. That's why we built a platform where quality is guaranteed, pricing is transparent, and every professional is background-verified.
@@ -40,7 +40,7 @@ export default function About() {
               {/* // REPLACE WITH REAL TEAM OR JOB-SITE PHOTO */}
               <img 
                 src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop" 
-                alt="Grah Solutions Professional Team on Job-site" 
+                alt="Greh Solutions Professional Team on Job-site"
                 className="w-full h-auto aspect-[4/5] object-cover"
                 referrerPolicy="no-referrer"
               />

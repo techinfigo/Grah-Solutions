@@ -33,13 +33,13 @@ export default function Header() {
         <a href="/" className="flex items-center gap-3">
           <img 
             src="/images/grah_solutions_logo_1782715917242.jpg" 
-            alt="Grah Solutions Logo" 
-            referrerPolicy="no-referrer" 
-            className="w-12 h-12 rounded-2xl object-cover shadow-lg shadow-primary/20 border border-gray-100" 
+            alt="Greh Solutions Logo"
+            referrerPolicy="no-referrer"
+            className="w-12 h-12 rounded-2xl object-cover shadow-lg shadow-primary/20 border border-gray-100"
           />
           <div className="flex flex-col">
             <span className="text-2xl font-black tracking-tighter text-text-main leading-none">
-              Grah Solutions
+              Greh Solutions
             </span>
             <span className="text-[10px] font-bold text-primary uppercase tracking-[0.2em] mt-1">
               Home Care Experts
