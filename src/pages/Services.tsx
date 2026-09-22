@@ -51,7 +51,7 @@ export default function Services() {
       <div className="bg-slate-900/85 backdrop-blur-sm py-10 border-y border-slate-800/80 mb-16 lg:mb-20">
         <div className="max-w-7xl mx-auto px-6 md:px-12 text-center">
           <p className="text-slate-400 font-bold uppercase tracking-widest text-[10px] md:text-xs mb-6">We use only Premium Trusted Brands</p>
-          <div className="bg-white/95 backdrop-blur-md py-5 px-8 md:px-12 rounded-[2rem] inline-block max-w-full shadow-xl shadow-slate-950/20 border border-white/20">
+          <div className="bg-white/95 backdrop-blur-md py-3.5 px-8 md:px-12 rounded-[2rem] inline-block max-w-full shadow-xl shadow-slate-950/20 border border-white/20">
             <BrandLogos />
           </div>
         </div>

@@ -22,7 +22,7 @@ export default function BrandLogos() {
             src={`/brands/${brand.id}.png`}
             alt={brand.name}
             referrerPolicy="no-referrer"
-            className="h-8 md:h-10 w-auto object-contain select-none"
+            className="h-10 md:h-[52px] w-auto object-contain select-none"
           />
         </motion.div>
       ))}
