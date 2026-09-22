@@ -25,7 +25,7 @@ export const SERVICES: Service[] = [
     id: '1',
     title: 'Home Painting',
     slug: 'home-painting',
-    shortDescription: 'Transform your Agra home with premium interior and exterior painting services.',
+    shortDescription: 'Premium interior & exterior painting for your Agra home.',
     description: 'Our professional painting services are designed to give your Agra home a fresh, vibrant, and stunning look. We use high-quality, eco-friendly paints and expert dust-free techniques to ensure a flawless finish that lasts for years.',
     icon: 'PaintBucket',
     benefits: [
@@ -49,7 +49,7 @@ export const SERVICES: Service[] = [
     id: '2',
     title: 'Waterproofing',
     slug: 'waterproofing',
-    shortDescription: 'Protect your ceilings, walls, and roofs from dampness and leakage in Agra.',
+    shortDescription: 'Shield your ceilings, walls & roofs from Agra dampness.',
     description: 'Don\'t let severe water leakage ruin your valuable property. Our advanced chemical waterproofing treatments provide a robust 7-layer shield against Agra moisture, preventing cracks, mold, dampness, and structural decay inside your rooms, terraces, and external walls.',
     icon: 'Droplets',
     benefits: [
@@ -73,7 +73,7 @@ export const SERVICES: Service[] = [
     id: '3',
     title: 'Pest Control',
     slug: 'pest-control',
-    shortDescription: 'Safe, odorless, and highly effective pest control for Agra homes and workspaces.',
+    shortDescription: 'Safe, odorless pest control for Agra homes & workspaces.',
     description: 'Banish termites, bedbugs, cockroaches, and rodents safely. We use licensed, organic/herbal, and government-approved odorless chemicals to keep your Agra home or commercial space safe for children, pets, and senior citizens.',
     icon: 'Bug',
     benefits: [
@@ -97,7 +97,7 @@ export const SERVICES: Service[] = [
     id: '4',
     title: 'Home Decoration',
     slug: 'home-decoration',
-    shortDescription: 'Elevate your home aesthetics with premium wallpaper, textures, and paneling.',
+    shortDescription: 'Premium wallpaper, textures & paneling for your Agra home.',
     description: 'Your home deserves a personalized touch. Our home decoration experts specialize in premium wallpaper installation, customized texture painting, design wall panels, and interior styling services to create the perfect dream ambiance in Agra.',
     icon: 'Sparkles',
     benefits: [
